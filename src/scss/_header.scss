@@ -1,0 +1,17 @@
+header {
+    border-bottom: 5px solid $light-grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    .logo {
+        width: 70px;
+    }
+    .name {
+        text-transform: uppercase;
+        h1 {
+            font-size: 36px;
+            text-transform: uppercase;
+        }
+    }
+}

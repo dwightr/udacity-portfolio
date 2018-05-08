@@ -1,0 +1,23 @@
+img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+// .banner {
+//     img {
+//         max-height: 300px;
+//     }
+// }
+figure {
+    margin: 0;
+    picture {
+        display: block;
+    }
+    figcaption {
+        h2 {
+            text-transform: uppercase;
+        }
+        p {}
+    }
+}
